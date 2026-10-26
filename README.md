@@ -1,4 +1,4 @@
-Figma Link: https://www.figma.com/proto/oXebpvc3rY8uVBnM3mNYjW/SneakVerse-%E2%80%94-Step-Into-the-Future-%C2%B7-UI-UX-Submission?node-id=7-320&starting-point-node-id=7%3A320&t=9uZgmW620jbRjOT4-1
+Figma Link: https://www.figma.com/design/oXebpvc3rY8uVBnM3mNYjW/SneakVerse-%E2%80%94-Step-Into-the-Future-%C2%B7-UI-UX-Submission?node-id=16-383&t=rgNqVisfAMjZyQiU-1
 
 
 
